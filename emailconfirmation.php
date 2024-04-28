@@ -56,8 +56,8 @@ info@2ncorporat.com";
     <script>
         swal({
           icon: "success",
-          title: "bon travail !",
-          text: "  Un message a été envoyé au candidat !",
+          title: "Bon travail !",
+          text: "  Un mail de confirmation a été envoyé au candidat !",
           showConfirmButton: true,
           confirmButtonText: "Cerrar",
           closeOnConfirm: false
